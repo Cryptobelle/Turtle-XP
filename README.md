@@ -25,8 +25,8 @@ What you see
 
 Installation
 ------------
-Files already live in:
-    WoW\Interface\AddOns\TurtleXPTracker\
+Unzip the zip file to:
+    WoW\Interface\AddOns\
 
 1. Fully quit WoW (needed only on first install, so the client picks
    up the new folder).
